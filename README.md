@@ -6,7 +6,8 @@ I wrote more than two thousand questions to answer.
 Random answers are selected function of the type of question asked.
 
 
-![astronomy-quizz-home](https://github.com/Nicolas-CHRETIEN/astronomy-quizz/assets/132827127/44a4c614-1e72-469e-9da8-e3fba1cfc131)
+![astronomy-quizz-home](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/aca752fd-0b49-42a2-9d26-6aec6da7ef93)
+
 
 
 
@@ -16,7 +17,8 @@ Random answers are selected function of the type of question asked.
  You also can select "general" which combine both of all themes.
 
 
-![astronomy-quizz-select-theme](https://github.com/Nicolas-CHRETIEN/astronomy-quizz/assets/132827127/cedd2fa5-9e66-401d-8ae8-674a56b56c44)
+![astronomy-quizz-select-theme](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/5bb8c00d-0ebc-4dc9-8641-89537ae3c007)
+
 
 
  
@@ -37,7 +39,8 @@ But you have several "jockers" to help you avoid a difficult question:
   - The third gives you a try with no consequences in case of failure.
 
 
-![astronomy-quizz-jocker](https://github.com/Nicolas-CHRETIEN/astronomy-quizz/assets/132827127/04567a33-dce8-4552-8742-62d19bcd33ff)
+![astronomy-quizz-jocker](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/50635484-ab35-4f4b-8de6-dc145784b1b8)
+
 
 
 After you give an answer, a short text tells you if you're wrong or write and give you an explanation.
@@ -45,7 +48,8 @@ Each good answer is one step to further the game in background in which you have
 Of course, a wrong answer stops the mission.
 
 
-![astronomy-quizz-succes](https://github.com/Nicolas-CHRETIEN/astronomy-quizz/assets/132827127/b409210f-e605-4b5d-a5a6-15566534d039)
+![astronomy-quizz-succes](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/941fc3bd-b6ba-4512-963d-62cafcd33d69)
+
 
 
 
@@ -55,7 +59,8 @@ Data are stored with local storage for the moment, everything is done in front e
 
 
 
-![astronomy-quizz-score](https://github.com/Nicolas-CHRETIEN/astronomy-quizz/assets/132827127/1667192a-3ac0-44d3-8660-009f4bab84d9)
+![astronomy-quizz-score](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/84567a99-bbcb-470f-aa2f-1811df7a8196)
+
 
 
 

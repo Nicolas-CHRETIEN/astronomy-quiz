@@ -1,12 +1,8 @@
-# My first project: A quiz on astronomy.
-
-As I just began coding, mainly on JavaScript, I found a project which caught my interest.
-This is a game where the goal is to answer the most questions you can.
-I wrote more than two thousand questions to answer.
-Random answers are selected function of the type of question asked.
+# A quiz on astronomy.
 
 
-![astronomy-quizz-home](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/aca752fd-0b49-42a2-9d26-6aec6da7ef93)
+![astronomy-quizz-home](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/3f48fb03-3678-4d33-bdab-d70fc352aa13)
+
 
 
 
@@ -17,7 +13,8 @@ Random answers are selected function of the type of question asked.
  You also can select "general" which combine both of all themes.
 
 
-![astronomy-quizz-select-theme](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/5bb8c00d-0ebc-4dc9-8641-89537ae3c007)
+![astronomy-quizz-select-theme](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/7b3ac0be-af2f-4c8f-a86c-69baf9f32de9)
+
 
 
 
@@ -39,7 +36,8 @@ But you have several "jockers" to help you avoid a difficult question:
   - The third gives you a try with no consequences in case of failure.
 
 
-![astronomy-quizz-jocker](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/50635484-ab35-4f4b-8de6-dc145784b1b8)
+![astronomy-quizz-jocker](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/7deb8885-bc5b-495d-a633-7998006f8f64)
+
 
 
 
@@ -48,7 +46,8 @@ Each good answer is one step to further the game in background in which you have
 Of course, a wrong answer stops the mission.
 
 
-![astronomy-quizz-succes](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/941fc3bd-b6ba-4512-963d-62cafcd33d69)
+![astronomy-quizz-succes](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/b3f9d50d-3182-4afd-9e38-5cf93643f334)
+
 
 
 
@@ -59,7 +58,8 @@ Data are stored with local storage for the moment, everything is done in front e
 
 
 
-![astronomy-quizz-score](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/84567a99-bbcb-470f-aa2f-1811df7a8196)
+![astronomy-quizz-score](https://github.com/Nicolas-CHRETIEN/astronomy-quiz/assets/132827127/5a7985a0-73c4-41cf-a388-ee041ac60e46)
+
 
 
 

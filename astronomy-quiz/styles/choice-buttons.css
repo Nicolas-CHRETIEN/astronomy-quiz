@@ -1,0 +1,108 @@
+
+/*------------------ General rules ---------------------*/
+
+.choice__buttons,
+.answers__buttons,
+.theme__buttons {
+    background-color: rgb(66, 66, 142);
+    color: rgb(245, 243, 240);
+    border-radius: 20px;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px;
+}
+
+.answers__answer1,
+.answers__answer2,
+.answers__answer3,
+.answers__answer4,
+.answers__answer5,
+.answers__answer6,
+.answers__answer7,
+.answers__answer8,
+.answers__answer9,
+.answers__answer10 {
+    width: 45%;
+}
+
+.answers__answer1:hover,
+.answers__answer2:hover,
+.answers__answer3:hover,
+.answers__answer4:hover,
+.answers__answer5:hover,
+.answers__answer6:hover,
+.answers__answer7:hover,
+.answers__answer8:hover,
+.answers__answer9:hover,
+.answers__answer10:hover,
+.answers__backup:hover,
+.answers__next:hover {
+    background-color: rgb(66, 66, 142);
+    border-color: rgb(230, 235, 240);
+}
+
+
+/*----------------- Individual rules -------------------*/
+.theme__solarSystem,
+.theme__stars,
+.theme__constellations,
+.theme__spacialMissions,
+.theme__spaceHistory,
+.theme__scienceFiction {
+    width: 45%;
+}
+
+.theme__general {
+    width: 92%;
+}
+
+
+.theme__solarSystem:hover {
+    background-image: url('images/solarSystem.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: rgb(230, 235, 240);
+}
+
+.theme__stars:hover {
+    background-image: url('images/stars.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: rgb(230, 235, 240);
+}
+
+.theme__constellations:hover {
+    background-image: url('images/constellations.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: rgb(230, 235, 240);
+}
+
+.theme__spacialMissions:hover {
+    background-image: url('images/spaceMissions.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: rgb(230, 235, 240);
+}
+
+.theme__spaceHistory:hover {
+    background-image: url('images/spaceHistory.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: rgb(230, 235, 240);
+}
+
+.theme__scienceFiction:hover {
+    background-image: url('images/scienceFiction.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: rgb(230, 235, 240);
+}
+
+.theme__general:hover {
+    background-image: url('images/general.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: rgb(223, 226, 229);
+}

@@ -1,0 +1,86 @@
+/* The first button must be in red, a different color than other buttons.
+Always margin from the top and margin left to center it.*/
+.choice__begin,
+.choice__game-rules,
+.choice__table-score,
+.choice__contact,
+.choice__know-more,
+.choice__home {
+    background-color: rgb(147, 23, 23);
+    color: rgb(255, 238, 216);
+
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 20%;
+}
+  
+/* Change the color when the mouse is above to show it is possible to click.*/
+.choice__begin:hover,
+.choice__game-rules:hover,
+.choice__table-score:hover,
+.choice__contact:hover,
+.choice__know-more:hover,
+.choice__home:hover {
+    background-color: rgb(192, 40, 40);
+    border-color: rgb(239, 248, 255);
+}
+  
+/* All the other isolated buttons are quitte the same exepted the color.*/
+.choice__next {
+    background-color: rgb(66, 66, 142);
+    color: rgb(255, 238, 216);
+    margin: 20px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 20%;
+    justify-content: flex-end;
+}
+  
+.choice__next:hover {
+    background-color: rgb(61, 61, 215);
+    border-color: rgb(241, 248, 255);
+}
+
+.choice__backup {
+    background-color: rgb(147, 23, 23);
+    color: rgb(254, 241, 223);
+    margin: 10px;
+    font-size: 15px;
+}
+
+.choice__backup:hover {
+    background-color: rgb(192, 40, 40);
+    border-color: rgb(240, 248, 255);
+}
+
+.jocker__button {
+    background-color: rgb(147, 23, 23);
+    color: rgb(254, 241, 223);
+    margin: 10px;
+    font-size: 15px;
+}
+
+.jocker__button:hover {
+    background-color: rgb(192, 40, 40);
+    border-color: rgb(240, 248, 255);
+}
+
+.answers__answers-cleared {
+    opacity: 0.4;
+    background-color: rgb(125, 28, 28);
+    color: rgb(245, 243, 240);
+    margin: 20px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px;
+    width: 45%;
+}
+
+.answers__answer-jocker2 {
+    opacity: 0.5;
+}

@@ -1,0 +1,32 @@
+/* Put the title at the good size and stick it to the table.*/
+.result__table-title {
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+
+/* These rules need to be applied on the table node.*/
+.result__table {
+    border-collapse: collapse;
+    opacity: 0.7;
+}
+
+/* Theses rules concern the table's head AND body.*/
+.result__hcell, .result__bcell {
+    padding: 20px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+/* Thooses concerne only the head or only the body.*/
+.result__hcell {
+    font-size: 25px;
+    background-color: rgb(15, 15, 117);
+    border: 5px solid rgb(0, 0, 0);
+}
+  
+.result__bcell {
+    font-size: 15px;
+    background-color: rgb(202, 202, 206);
+    border: 3px solid rgb(0, 0, 0);
+    color: black;
+}

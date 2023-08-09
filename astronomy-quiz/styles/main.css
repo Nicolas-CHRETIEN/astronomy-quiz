@@ -1,0 +1,54 @@
+/* select the background picture and the color of all the game's text.*/
+body {
+  	background-image: url('images/background.JPG');
+	background-repeat: no-repeat;
+	background-size: cover;
+ 	color: rgb(255, 238, 216);
+}
+
+/* Align the title and give it a huge font.*/
+.game__title {
+  	font-size: 35px;
+  	text-align: center;
+}
+
+.message {
+	font-size: 20px;
+	text-align: center;
+}
+
+/* Width must be important and the font quite small for big explanations. Center it with padding.*/
+.conversation {
+	width: 100%;
+  	font-size: 25px;
+  	padding-top: 50px;
+	padding-bottom: 50px;
+	overflow: auto;
+}
+
+.choice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+	justify-content: space-between;
+    font-size: 20px;
+}
+
+.answers {
+    display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+    font-size: 20px;
+}
+
+.jocker {
+	display: flex;
+}
+
+.theme {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+    align-items: center;
+    font-size: 20px;
+}
